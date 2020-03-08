@@ -1,0 +1,16 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+#Image_div{
+  padding: 10px;
+}
+
+img{
+  float: left;
+  border: 10px solid rgb(182, 182, 182);
+  box-shadow: 0px 10px 10px rgba(124, 124, 124, 0.411);
+    width: 30vw;
+    margin: 1vw;
+}
