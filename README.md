@@ -16,3 +16,4 @@ This is a early alpha photo sharing app for iOS I am working on.
 > Share image using BLE, WIFI, QRCODE, IPV6, Website and email.
 
 > *It's a post once view everywhere kinda app*
+*You know kinda like WUPHF* **From the OFFICE**
